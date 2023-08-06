@@ -7,7 +7,7 @@
 - https://github.com/${Carolina} -> Membra
 - https://github.com/${Nilo} -> Membro
 ## Resumo
-Esta é a nossa referente à disciplina Métodos Quantitativos estudada durante 4º Semestre da Unifor.
+Esta é a nossa organização referente à disciplina Métodos Quantitativos estudada durante 4º Semestre da Unifor.
 ## Visão Geral
 O repositório conterá todo o conteúdo aprendido por meio de slides e outros materiais educativos, além dos nossos projetos para a disciplina.
 ## Ementa da disciplina Métodos Quantitativos
