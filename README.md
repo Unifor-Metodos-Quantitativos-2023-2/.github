@@ -1,6 +1,7 @@
 # Equipe Métodos Quantitativos
 
 ![Estatística](https://igti.ufsc.br/wp-content/uploads/2016/09/estatistica1.jpg)
+
 ## Membros da equipe (donos) e visitantes
 - https://github.com/ASQAS71 -> Membro
 - https://github.com/${Carolina} -> Membra
