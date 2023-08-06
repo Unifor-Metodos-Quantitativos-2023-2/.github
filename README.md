@@ -11,6 +11,7 @@ O repositório conterá todo o conteúdo aprendido por meio de slides e outros m
 - Estatística descritiva para interpretação de base de dados.
 - Probabilidade e distribuições de probabilidade para modelagem de fenômenos aleatórios.
 - Estatística inferencial para os parâmetros populacionais.
+
 Mais informações no link a seguir: https://www.unifor.br/web/graduacao/ciencia-da-computacao
 ## Docente que ministra a nossa turma de Métodos Quantitativos
 Vera Lucia da Silva
