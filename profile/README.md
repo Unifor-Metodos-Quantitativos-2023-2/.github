@@ -4,8 +4,8 @@
 
 ## Membros da equipe (donos) e visitantes
 - https://github.com/ASQAS71 -> Membro
-- https://github.com/${Carolina} -> Membra
-- https://github.com/${Nilo} -> Membro
+- https://github.com/C-dS-R -> Membra
+- https://github.com/NiloJereissati -> Membro
 ## Resumo
 Esta é a nossa organização referente à disciplina Métodos Quantitativos estudada durante 4º Semestre da Unifor.
 ## Visão Geral
