@@ -20,6 +20,3 @@ Mais informações no link a seguir: https://www.unifor.br/web/graduacao/ciencia
 Profissional: Vera Lucia da Silva
 
 Currículo: https://www2.unifor.br/controle_pesquisa/pesquisarprofessor.do?actionParameter=prepareUpdate&p_tp_ambiente=2&p_tp_chamada=1&p_tp_apresentacao=1&cdPesquisador=836307593
-## Entendendo os galhos dos repositórios da organização
-- Os repositórios conteudistas seguem a estrutura padrão de galhos
-- O galho "main" dos repositórios de projeto sempre estará atualizado até a última versão estável, no entanto o galho "final" é o apresentado para a professora no dia da entrega/apresentação do projeto. Essa estrutura existirá mesmo que "main" e "final" sejam idênticos.
